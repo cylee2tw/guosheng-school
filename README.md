@@ -1,2 +1,6 @@
 # guosheng-school
-guosheng-school
+# 國聖國小數位專案
+
+這是學校數位工具開發的練習空間。
+
+第一個目標：建立校園活動介紹網頁。
